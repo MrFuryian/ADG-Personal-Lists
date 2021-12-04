@@ -1,5 +1,46 @@
 # Regex
 @@||www.ad.nl^
 
-# Domains
+# Steam
 store.steampowered.com
+
+# Google Maps and other Google services
+clients4.google.com 
+clients2.google.com
+
+# YouTube history
+s.youtube.com 
+video-stats.l.google.com
+
+# YouTube App for iOS
+www.googleapis.com 
+youtubei.googleapis.com
+oauthaccountmanager.googleapis.com
+
+# Google Play
+android.clients.google.com
+
+# Google Fonts
+gstaticadssl.l.google.com
+
+# iOS app requires this to be whitelisted for the app to connect.
+googleapis.l.google.com
+
+# Windows uses this to verify connectivity to Internet
+www.msftncsi.com
+
+# Microsoft Web Pages
+outlook.office365.com 
+products.office.com 
+c.s-microsoft.com 
+i.s-microsoft.com 
+login.live.com 
+login.microsoftonline.com
+
+# Backup bitlocker recovery key to Microsoft account
+g.live.com
+
+# Microsoft Store (Windows Store)
+dl.delivery.mp.microsoft.com 
+geo-prod.do.dsp.mp.microsoft.com 
+displaycatalog.mp.microsoft.com
