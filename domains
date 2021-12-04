@@ -26,9 +26,6 @@ gstaticadssl.l.google.com
 # iOS app requires this to be whitelisted for the app to connect.
 googleapis.l.google.com
 
-# Windows uses this to verify connectivity to Internet
-www.msftncsi.com
-
 # Microsoft Web Pages
 outlook.office365.com 
 products.office.com 
@@ -36,6 +33,9 @@ c.s-microsoft.com
 i.s-microsoft.com 
 login.live.com 
 login.microsoftonline.com
+msftncsi.com 
+www.msftncsi.com 
+ipv6.msftncsi.com
 
 # Backup bitlocker recovery key to Microsoft account
 g.live.com
@@ -45,8 +45,80 @@ dl.delivery.mp.microsoft.com
 geo-prod.do.dsp.mp.microsoft.com 
 displaycatalog.mp.microsoft.com
 
+# Microsoft Office
+officeclient.microsoft.com
+
 # Windows Update
 sls.update.microsoft.com.akadns.net 
 fe3.delivery.dsp.mp.microsoft.com.nsatc.net 
 tlu.dl.delivery.mp.microsoft.com
 
+# Microsoft Edge Browser Update
+msedge.api.cdp.microsoft.com
+
+# Xbox Live & Xbox Live Achievements
+clientconfig.passport.net 
+v10.events.data.microsoft.com
+V20.events.data.microsoft.com
+
+# Apple Music
+itunes.apple.com
+s.mzstatic.com
+
+# Apple / iOS
+appleid.apple.com
+captive.apple.com 
+gsp1.apple.com 
+www.apple.com 
+www.appleiphonecell.com
+gsp-ssl.ls.apple.com
+gsp-ssl.ls-apple.com.akadns.net
+
+# Spotify
+spclient.wg.spotify.com 
+apresolve.spotify.com
+api-tv.spotify.com
+
+# Sonarr
+services.sonarr.tv 
+skyhook.sonarr.tv 
+download.sonarr.tv 
+apt.sonarr.tv 
+forums.sonarr.tv
+
+# Signal
+ud-chat.signal.org
+chat.signal.org
+storage.signal.org
+signal.org
+www.signal.org
+updates2.signal.org
+textsecure-service-whispersystems.org
+giphy-proxy-production.whispersystems.org
+cdn.signal.org
+whispersystems-textsecure-attachments.s3-accelerate.amazonaws.com
+d83eunklitikj.cloudfront.net
+souqcdn.com
+cms.souqcdn.com
+api.directory.signal.org
+contentproxy.signal.org
+turn1.whispersystems.org
+
+# Twitter
+twitter.com
+upload.twitter.com
+api.twitter.com
+mobile.twitter.com
+
+# Others
+placehold.it 
+placeholdit.imgix.net
+gfwsl.geforce.com
+tracking.epicgames.com
+cloudsync-prod.s3.amazonaws.com
+tracking-protection.cdn.mozilla.net
+styles.redditmedia.com
+www.redditstatic.com
+reddit.map.fastly.net
+www.redditmedia.com
+reddit-uploaded-media.s3-accelerate.amazonaws.com
