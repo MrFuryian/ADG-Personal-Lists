@@ -1,5 +1,5 @@
 # Regex
-@@||www.ad.nl
+@@||www.ad.nl^
 
 # Domains
 0.client-channel.google.com
