@@ -12,3 +12,28 @@
 /^mads\./
 /^pixels?[-.]/
 /^stat(s|istics)?[0-9]*[_.-]/
+
+# Used for Netflix
+(^|\.)netflix\.com$
+(^|\.)nflximg\.com$
+
+# Used for g00 subdomains
+.*\.g[0-9]+\..*
+
+# Used for facebook
+^([^.]+\.)?(facebook|fb(cdn|sbx)?|tfbnw)\.[^.]+$
+
+# Used for Google amp links
+^(.+[_.-])?amp(project)?\.
+
+# Used for port scans by a few websites
+(\.|^)online-metrix\.net$
+
+# Used for blocking various domains
+^.+\.(accountant|biz|bid|christmas|click|country|cricket|date|download)$
+^.+\.(faith|gdn|gq|kim|life|loan|world|xin|xyz|zip|link)$
+^.+\.(men|mom|ninja|pro|racing|realtor|science|space|stream|top|win|work)$
+^.+\.(ru|cn|ro|ml|ga|gq|cf|tk|pw|ua|ug|ve|info|site|club|host|party)$
+^.+\.(in|hosting|online|cc|sh|pl|network|la|me|bg|br|website|live)$
+^.+\.(id|cash|za|red|ltd|cloud|ae|trade|name|store)$
+^.+\.(love|luxe|realestate)$
