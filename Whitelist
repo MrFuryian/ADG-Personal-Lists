@@ -7,13 +7,18 @@
 ||hardware.info^
 ||litix.io^
 ||omny.fm^
-www.nederlandseloterij.nl
+||regiogroei.cloud^
+www.nederlandseloterij.nl^
 
 # Social Media
 ||instagram.com^
 ||cdninstagram.com^
 ||okcupid.com^
 ||twitter.com^
+
+# Apps
+||state.api.peaks.cloud^
+||api-v5.mobilio.cc^
 
 # URL Shorteners
 ||bit.ly^
@@ -25,3 +30,6 @@ www.nederlandseloterij.nl
 ||whatsapp.net^
 ||web.whatsapp.com^
 ||stackoverflow.com^
+||xp.apple.com^
+||gs-loc.apple.com^
+|apple.com^
