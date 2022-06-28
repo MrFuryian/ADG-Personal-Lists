@@ -8,6 +8,7 @@
 ||litix.io^
 ||omny.fm^
 ||regiogroei.cloud^
+||zb.funda.info^
 www.nederlandseloterij.nl^
 
 # Social Media
@@ -17,7 +18,7 @@ www.nederlandseloterij.nl^
 ||twitter.com^
 
 # Apps
-||state.api.peaks.cloud^
+||api.peaks.cloud^
 ||api-v5.mobilio.cc^
 
 # URL Shorteners
@@ -34,3 +35,6 @@ www.nederlandseloterij.nl^
 ||xp.apple.com^
 ||gs-loc.apple.com^
 |apple.com^
+||sourceforge.net^
+||cider.sh^
+||sdk.privacy-center.org^
