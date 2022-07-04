@@ -20,6 +20,10 @@ www.nederlandseloterij.nl^
 # Apps
 ||api.peaks.cloud^
 ||api-v5.mobilio.cc^
+||services.gfe.nvidia.com^
+||api.gfe.nvidia.com^
+||accounts.nvgs.nvidia.cn^
+||kcsoftwares.com^
 
 # URL Shorteners
 ||bit.ly^
@@ -29,6 +33,7 @@ www.nederlandseloterij.nl^
 ||trackmania.nadeo.live^
 
 # Misc
+||azure.com^
 ||whatsapp.net^
 ||web.whatsapp.com^
 ||stackoverflow.com^
