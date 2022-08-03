@@ -12,6 +12,9 @@
 ||ingestion.smartocto.com^
 ||tweedekamer.nl^
 ||email.afterpay.nl^
+||embed.scribblelive.com
+||sdk.dolph.in^
+||rijnmond.bbvms.com^
 www.nederlandseloterij.nl^
 
 # Social Media
@@ -41,7 +44,7 @@ www.nederlandseloterij.nl^
 ||whatsapp.net^
 ||web.whatsapp.com^
 ||stackoverflow.com^
-|imgur.com^
+||imgur.com^
 ||xp.apple.com^
 ||gs-loc.apple.com^
 |apple.com^
@@ -52,5 +55,7 @@ www.nederlandseloterij.nl^
 ||dmd.metaservices.microsoft.com^
 ||disqus.com^
 ||linkedin.com^
-||mail.proton.me^
 ||www1.xup.in^
+||proton.me^
+||whotracks.me^
+||binsearch.info^
