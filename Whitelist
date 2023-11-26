@@ -16,6 +16,9 @@
 ||sdk.dolph.in^
 ||rijnmond.bbvms.com^
 www.nederlandseloterij.nl^
+# Allow videoplayer on ad.nl
+||api.mychannels.world^
+||cdn.nos.nl^
 
 # Social Media
 ||instagram.com^
@@ -36,6 +39,7 @@ www.nederlandseloterij.nl^
 ||mandrillapp.com^
 ||tikkie.me^
 ||cdn.awsde0.fds.api.mi-img.com^ 
+||www.mobilio.cc^
 
 # URL Shorteners
 ||bit.ly^
