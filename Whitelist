@@ -1,56 +1,50 @@
-# Twitch
-||static-cdn.jtvnw.net^
-
-# Dutch Site's
-||vkmag.com^
-||ad.nl^
-||hardware.info^
-||litix.io^
-||omny.fm^
-||regiogroei.cloud^
-||zb.funda.info^
-||ingestion.smartocto.com^
-||tweedekamer.nl^
-||email.afterpay.nl^
-||embed.scribblelive.com
-||sdk.dolph.in^
-||rijnmond.bbvms.com^
-www.nederlandseloterij.nl^
-||api.mychannels.world^  # Allow videoplayer on ad.nl
-||cdn.nos.nl^
-
-# Social Media
+# Allows site
 ||instagram.com^
 ||cdninstagram.com^
 ||okcupid.com^
 ||twitter.com^
 ||t.me^
 ||telegram.me^
-
-# Apps
-||api.peaks.cloud^
-||api-v5.mobilio.cc^
-||services.gfe.nvidia.com^
-||api.gfe.nvidia.com^
-||accounts.nvgs.nvidia.cn^
-||kcsoftwares.com^
-||apollogur.download^
-||mandrillapp.com^
-||tikkie.me^
-||cdn.awsde0.fds.api.mi-img.com^ 
-||www.mobilio.cc^
-
-# URL Shorteners
 ||bit.ly^
 ||goo.gl^
 
-# Gaming
+www.nederlandseloterij.nl^
+||vkmag.com^
+||hardware.info^
+
+# Allow site & videoplayer on ad.nl
+||ad.nl^
+||api.mychannels.world^ 
+
+# Allow assets on nos.nl
+||cdn.nos.nl^
+
+# Allow assets on Twitch
+||static-cdn.jtvnw.net^
+
+# Allows Trackmania
 ||trackmania.nadeo.club^
 ||trackmania.nadeo.live^
 ||trackmania.core.nadeo.online^
 
-# BOINC
+# Allows specific BOINC projects
 ||universeathome.pl^
+
+# Allows assets on rijnmond.nl
+||rijnmond.bbvms.com^
+||regiogroei.cloud^
+
+# Allows the use of Mobilio app
+||www.mobilio.cc^
+||api-v5.mobilio.cc^
+
+# Allows GeFroce Now
+||services.gfe.nvidia.com^
+||api.gfe.nvidia.com^
+||accounts.nvgs.nvidia.cn^
+
+$ Allows Peaks App
+||api.peaks.cloud^
 
 # Misc
 ||azure.com^
@@ -79,7 +73,6 @@ www.nederlandseloterij.nl^
 ||vvld.in^
 ||linktr.ee^
 ||support.mozilla.org^
-||fastpic.ru^
 ||amazon.com^
 ||puu.sh^
 ||youtube.com^
