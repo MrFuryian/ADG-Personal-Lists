@@ -33,6 +33,7 @@ www.nederlandseloterij.nl^
 # Allows assets on rijnmond.nl
 ||rijnmond.bbvms.com^
 ||regiogroei.cloud^
+||cdn.bluebillywig.com^
 
 # Allows the use of Mobilio app
 ||www.mobilio.cc^
