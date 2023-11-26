@@ -16,8 +16,7 @@
 ||sdk.dolph.in^
 ||rijnmond.bbvms.com^
 www.nederlandseloterij.nl^
-# Allow videoplayer on ad.nl
-||api.mychannels.world^
+||api.mychannels.world^  # Allow videoplayer on ad.nl
 ||cdn.nos.nl^
 
 # Social Media
