@@ -45,5 +45,8 @@ www.nederlandseloterij.nl^
 ||api.gfe.nvidia.com^
 ||accounts.nvgs.nvidia.cn^
 
-$ Allows Peaks App
+# Allows Peaks App
 ||api.peaks.cloud^
+
+# Allow Proton
+||proton.me^
