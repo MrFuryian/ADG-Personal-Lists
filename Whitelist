@@ -54,5 +54,12 @@ www.nederlandseloterij.nl^
 # Video player vkmag.com
 ||cdn.vlyby.com^
 
+# Allow embedded X / tweets
+||cdn.syndication.twimg.com^
+
+
+
+
+
 # Used on funda
 zb.funda.info^
