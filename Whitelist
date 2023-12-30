@@ -1,17 +1,22 @@
-# Allows site
+# Allow site
 ||instagram.com^
 ||cdninstagram.com^
-||twitter.com^
 ||t.me^
 ||telegram.me^
 ||bit.ly^
 ||goo.gl^
 www.nederlandseloterij.nl^
+||bff.prd.gateway.nederlandseloterij.nl
+||www.binsearch.info
 
 # Whatsapp
 ||whatsapp.net^
 ||web.whatsapp.com^
 ||www.whatsapp.com^
+
+# Allow X \ Twitter
+||twitter.com^
+||t.co^
 
 # Allow site & videoplayer on ad.nl
 ||ad.nl^
