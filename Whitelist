@@ -76,4 +76,5 @@ eu.adyen.link^
 
 # Allow kinguin
 ||www.kinguin.net^
-||images.kinguin.net@||static.kinguin.net^
+||images.kinguin.net
+||static.kinguin.net^
