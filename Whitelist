@@ -11,6 +11,8 @@
 ||suika.world^
 ||warframe.market^
 ||pobb.in^
+||trash-guides.info^
+||nzbgeek.info^
 
 # Whatsapp
 ||whatsapp.net^
@@ -27,6 +29,7 @@
 
 # Allow assets on nos.nl
 ||cdn.nos.nl^
+||node02.nl-ams-2.cdn.scalia.network^
 
 # Allow assets on Twitch
 ||static-cdn.jtvnw.net^
@@ -70,3 +73,7 @@ zb.funda.info^
 
 # Payments Adyen
 eu.adyen.link^
+
+# Allow kinguin
+||www.kinguin.net^
+||images.kinguin.net@||static.kinguin.net^
