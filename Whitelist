@@ -19,11 +19,18 @@
 ||steamdb.info^
 ||ninjacentral.co.za^
 ||download.protonvpn.net^
+||youforce.biz^
+||examcollection.com^
+||mandrillapp.com^
 
 # Whatsapp
 ||whatsapp.net^
 ||web.whatsapp.com^
 ||www.whatsapp.com^
+
+# KNMI
+||www.knmi.nl^
+||cdn.knmi.nl^
 
 # Allow X \ Twitter
 ||twitter.com^
@@ -85,3 +92,4 @@ eu.adyen.link^
 ||www.kinguin.net^
 ||images.kinguin.net
 ||static.kinguin.net^
+||id.kinguin.net
