@@ -50,6 +50,9 @@
 ||cdn.nos.nl^
 ||node02.nl-ams-2.cdn.scalia.network^
 
+#POE
+||www.filterblade.xyz^
+||poe.ninja^
 # Allow assets on Twitch
 ||static-cdn.jtvnw.net^
 
