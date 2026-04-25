@@ -35,7 +35,6 @@
 ||deberen.simplycore.nl
 ||archive.org^
 ||mega.nz^
-||kindroid.app.link^
 ||notion.com^
 ||getcomics.org^
 ||mega.co.nz^
@@ -44,14 +43,21 @@
 ||postimg.cc^
 ||paypal.com^
 ||bunq.me^
+||dockhand.pro^
+||simkl.com^
+||simkl.in^
+||resolver1.opendns.com^
 
 # Kindroid
+||kindroid.app.link^
 ||kindroid-*.livekit.cloud^
+||kindroid.ai^
 
 # Whatsapp
 ||whatsapp.net^
 ||web.whatsapp.com^
 ||www.whatsapp.com^
+||chat.whatsapp.com^
 
 # KNMI
 ||www.knmi.nl^
