@@ -69,8 +69,12 @@
 ||cdn.nos.nl^
 ||node02.nl-ams-2.cdn.scalia.network^
 
-# Allow assets on Twitch
+# Allow for Twitch
 ||static-cdn.jtvnw.net^
+||usher.ttvnw.net^
+||spade.twitch.tv^
+||playlist.ttvnw.net^
+||hls.ttvnw.net^
 
 # Allows Trackmania
 ||trackmania.nadeo.club^
